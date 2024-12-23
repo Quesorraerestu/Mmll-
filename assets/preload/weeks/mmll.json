@@ -1,0 +1,158 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Treatment",
+			"ronnie",
+			[
+				95,
+				60,
+				50
+			]
+		],
+		[
+			"R9k",
+			"shuaiby",
+			[
+				55,
+				80,
+				140
+			]
+		],
+		[
+			"Poka",
+			"gleb",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Rurus suicide",
+			"roro",
+			[
+				240,
+				120,
+				140
+			]
+		],
+		[
+			"Fallen casings",
+			"roro",
+			[
+				240,
+				120,
+				140
+			]
+		],
+		[
+			"Tranny outrage",
+			"audrey",
+			[
+				255,
+				0,
+				35
+			]
+		],
+		[
+			"Justice system",
+			"budd",
+			[
+				93,
+				93,
+				95
+			]
+		],
+		[
+			"Sentence",
+			"brenton",
+			[
+				115,
+				80,
+				60
+			]
+		],
+		[
+			"420",
+			"audreysmokin",
+			[
+				255,
+				0,
+				35
+			]
+		],
+		[
+			"Blocked",
+			"bnran",
+			[
+				115,
+				135,
+				135
+			]
+		],
+		[
+			"Gore",
+			"qonnie",
+			[
+				135,
+				55,
+				0
+			]
+		],
+		[
+			"Ronnies Good ending",
+			"ronald",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Glebs Good ending",
+			"glebge",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Tublord challenge",
+			"mark",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Fallen Creepers",
+			"creeper",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
