@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="D.png">
+<SubTexture name="D Se muere0000" x="2227" y="705" width="809" height="327" frameX="-1" frameY="-273" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0001" x="2227" y="1032" width="574" height="327" frameX="-236" frameY="-273" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0002" x="2515" y="370" width="307" height="327" frameX="-503" frameY="-273" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0003" x="2227" y="370" width="288" height="335" frameX="-535" frameY="-265" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0004" x="899" y="0" width="480" height="395" frameX="-413" frameY="-205" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0005" x="1379" y="395" width="682" height="394" frameX="-397" frameY="-206" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0006" x="1379" y="789" width="745" height="393" frameX="-334" frameY="-207" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0007" x="0" y="0" width="899" height="417" frameX="-178" frameY="-183" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0008" x="0" y="1210" width="832" height="393" frameX="-245" frameY="-207" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0009" x="832" y="1210" width="800" height="393" frameX="-277" frameY="-207" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0010" x="0" y="815" width="800" height="395" frameX="-277" frameY="-205" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0011" x="0" y="417" width="800" height="398" frameX="-277" frameY="-202" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0012" x="1379" y="0" width="848" height="395" frameX="-229" frameY="-205" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0013" x="0" y="1603" width="836" height="391" frameX="-241" frameY="-209" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0014" x="2227" y="0" width="835" height="370" frameX="-242" frameY="-230" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0015" x="836" y="1603" width="826" height="372" frameX="-251" frameY="-228" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0016" x="858" y="2346" width="852" height="297" frameX="-225" frameY="-303" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0017" x="2673" y="3221" width="898" height="243" frameX="-179" frameY="-357" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0018" x="1710" y="2346" width="859" height="289" frameX="-218" frameY="-311" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0019" x="1717" y="1994" width="858" height="346" frameX="-219" frameY="-254" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0020" x="0" y="2346" width="858" height="345" frameX="-219" frameY="-255" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0021" x="859" y="1994" width="858" height="349" frameX="-219" frameY="-251" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0022" x="0" y="1994" width="859" height="352" frameX="-218" frameY="-248" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0023" x="0" y="2691" width="862" height="285" frameX="-215" frameY="-315" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0024" x="862" y="2691" width="873" height="245" frameX="-204" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0025" x="1735" y="2691" width="867" height="245" frameX="-210" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0026" x="3062" y="1470" width="866" height="244" frameX="-211" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0027" x="3062" y="1714" width="872" height="244" frameX="-205" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0028" x="3062" y="1958" width="882" height="244" frameX="-195" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0029" x="3062" y="2202" width="890" height="244" frameX="-187" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0030" x="0" y="3221" width="892" height="244" frameX="-185" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Se muere0031" x="3062" y="2446" width="891" height="244" frameX="-185" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Idle0000" x="3062" y="2690" width="891" height="244" frameX="-186" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0000" x="3062" y="0" width="891" height="245" frameX="-186" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0001" x="3062" y="245" width="890" height="245" frameX="-186" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0002" x="3062" y="490" width="890" height="245" frameX="-186" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0003" x="0" y="2976" width="899" height="245" frameX="-177" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0004" x="3062" y="735" width="890" height="245" frameX="-185" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0005" x="3062" y="980" width="890" height="245" frameX="-185" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0006" x="3062" y="1225" width="891" height="245" frameX="-184" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0007" x="899" y="2976" width="899" height="245" frameX="-175" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0008" x="1798" y="2976" width="899" height="245" frameX="-176" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0009" x="2697" y="2976" width="893" height="245" frameX="-181" frameY="-355" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0010" x="892" y="3221" width="890" height="244" frameX="-184" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0011" x="1782" y="3221" width="891" height="244" frameX="-183" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0012" x="1782" y="3221" width="891" height="244" frameX="-183" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0013" x="1782" y="3221" width="891" height="244" frameX="-183" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0014" x="1782" y="3221" width="891" height="244" frameX="-183" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0015" x="1782" y="3221" width="891" height="244" frameX="-183" frameY="-356" frameWidth="1080" frameHeight="600" />
+<SubTexture name="D Retry0016" x="1782" y="3221" width="891" height="244" frameX="-183" frameY="-356" frameWidth="1080" frameHeight="600" />
+</TextureAtlas>

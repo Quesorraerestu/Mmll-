@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="budddeath.png">
+<SubTexture name="dead0000" x="0" y="0" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0001" x="126" y="0" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0002" x="0" y="76" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0003" x="126" y="76" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0004" x="0" y="152" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0005" x="126" y="152" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0006" x="252" y="0" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0007" x="252" y="76" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0008" x="252" y="152" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0009" x="0" y="228" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0010" x="126" y="228" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0011" x="252" y="228" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0012" x="378" y="0" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0013" x="378" y="76" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0014" x="378" y="152" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0015" x="378" y="228" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0016" x="0" y="304" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0017" x="126" y="304" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0018" x="252" y="304" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0019" x="378" y="304" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+<SubTexture name="dead0020" x="0" y="380" width="126" height="76" frameX="0" frameY="0" frameWidth="126" frameHeight="76" />
+</TextureAtlas>
