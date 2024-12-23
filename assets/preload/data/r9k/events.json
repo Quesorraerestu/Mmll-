@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "r9k",
+		"player1": "bf",
+		"player2": "shuaiby",
+		"player3": null,
+		"events": [
+			[
+				126750,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shuasuicide"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nada",
+		"bpm": 240,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "r9k"
+	}
+}
