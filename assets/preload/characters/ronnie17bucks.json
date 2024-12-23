@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				255,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				149,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				128,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				153,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				160,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ronnie17bucks",
+	"position": [
+		40,
+		-100
+	],
+	"healthicon": "ronnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		92,
+		63,
+		54
+	],
+	"camera_position": [
+		-260,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				177,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "shot"
+		},
+		{
+			"offsets": [
+				-136,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				-137,
+				-84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "deathloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Deahts/williamdeath",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "william",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		113,
+		39
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

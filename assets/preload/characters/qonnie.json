@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-225,
+				-92
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "qonnie Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				-80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "qonnie Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-202,
+				-72
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "qonnie Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-226,
+				-83
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "qonnie Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				-91
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "qonnie Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-225,
+				-88
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "qonnie Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-84
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "qonnie Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-226,
+				-78
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "qonnie Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-220,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "qonnie idle1"
+		},
+		{
+			"offsets": [
+				-210,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "qonnie idle2"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/qonnie",
+	"position": [
+		-220,
+		110
+	],
+	"healthicon": "qonnie",
+	"flip_x": true,
+	"healthbar_colors": [
+		99,
+		43,
+		29
+	],
+	"camera_position": [
+		40,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

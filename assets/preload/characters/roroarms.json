@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-40,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutDOWN",
+			"indices": [],
+			"name": "Down Cut"
+		},
+		{
+			"offsets": [
+				-100,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutUP",
+			"indices": [],
+			"name": "Up Cut"
+		},
+		{
+			"offsets": [
+				-210,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutRight",
+			"indices": [],
+			"name": "Right Cut"
+		},
+		{
+			"offsets": [
+				80,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutLEFT",
+			"indices": [],
+			"name": "Left Cut"
+		},
+		{
+			"offsets": [
+				-43,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-63,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-160,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				41,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roro_arms",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "roro",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		176
+	],
+	"camera_position": [
+		-260,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

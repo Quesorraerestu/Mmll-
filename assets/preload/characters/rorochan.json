@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-46,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Roro Idle"
+		},
+		{
+			"offsets": [
+				-68,
+				-212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Roro Down"
+		},
+		{
+			"offsets": [
+				-26,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Roro Up"
+		},
+		{
+			"offsets": [
+				-92,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Roro Right"
+		},
+		{
+			"offsets": [
+				6,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Roro Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rorochan",
+	"position": [
+		100,
+		200
+	],
+	"healthicon": "roro",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		176
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

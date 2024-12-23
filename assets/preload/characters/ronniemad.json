@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				161,
+				-7
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ronniemad Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Ronniemad Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Ronniemad Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Ronniemad Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Ronniemad Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				161,
+				-7
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "suicide",
+			"indices": [],
+			"name": "Ronniemad Suicide"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ronniemad",
+	"position": [
+		-120,
+		-190
+	],
+	"healthicon": "ronnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		92,
+		63,
+		54
+	],
+	"camera_position": [
+		-1140,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

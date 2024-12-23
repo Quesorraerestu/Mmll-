@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				112,
+				162
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "D Se muere"
+		},
+		{
+			"offsets": [
+				112,
+				162
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "D Idle"
+		},
+		{
+			"offsets": [
+				112,
+				162
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "D Retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Deahts/Niggerdead",
+	"position": [
+		-270,
+		230
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		270,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

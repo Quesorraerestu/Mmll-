@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance "
+		},
+		{
+			"offsets": [
+				-86,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				-49,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				-44,
+				132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				66,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-83,
+				44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up instance "
+		},
+		{
+			"offsets": [
+				162,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left instance "
+		},
+		{
+			"offsets": [
+				-46,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right instance "
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ronnieGoodEnding",
+	"position": [
+		-20,
+		-90
+	],
+	"healthicon": "ronald",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-99
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Shuaiby Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Shuaiby Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-99
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Shuaiby Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-99
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Shuaiby Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Shuaiby Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-99
+			],
+			"anim": "shoot",
+			"fps": 14,
+			"name": "Shuaiby Shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				547,
+				-17
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "suicide",
+			"indices": [],
+			"name": "Suicide"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shuaiby2",
+	"position": [
+		-370,
+		-130
+	],
+	"healthicon": "shuaiby",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		54,
+		110
+	],
+	"camera_position": [
+		-270,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

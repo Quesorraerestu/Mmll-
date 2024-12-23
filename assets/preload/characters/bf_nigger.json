@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nigga bf idle"
+		},
+		{
+			"offsets": [
+				145,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nigga bf left0"
+		},
+		{
+			"offsets": [
+				50,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nigga bf down0"
+		},
+		{
+			"offsets": [
+				84,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nigga bf up0"
+		},
+		{
+			"offsets": [
+				-98,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nigga bf right0"
+		},
+		{
+			"offsets": [
+				97,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "nigga bf left miss"
+		},
+		{
+			"offsets": [
+				-45,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "nigga bf down miss"
+		},
+		{
+			"offsets": [
+				-16,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "nigga bf up miss"
+		},
+		{
+			"offsets": [
+				-44,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "nigga bf right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_nigger",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfnigger",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		220,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

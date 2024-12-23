@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-199,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "glebsuicide idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				443,
+				704
+			],
+			"anim": "suicide",
+			"fps": 24,
+			"name": "glebsuicide Suicide ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glebsuicide",
+	"position": [
+		-1450,
+		175
+	],
+	"healthicon": "gleb",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		82,
+		66
+	],
+	"camera_position": [
+		-153,
+		-318
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

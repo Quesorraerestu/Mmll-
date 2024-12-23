@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-205,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "vleb Idle"
+		},
+		{
+			"offsets": [
+				-213,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "vleb Down0"
+		},
+		{
+			"offsets": [
+				-209,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "vleb Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-91
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vleb Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vleb Left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/vleb",
+	"position": [
+		-390,
+		-10
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-60,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

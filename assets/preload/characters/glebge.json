@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-86,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				-49,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				-44,
+				132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				66,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-85,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left instance "
+		},
+		{
+			"offsets": [
+				41,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glebGoodEnding",
+	"position": [
+		-20,
+		-40
+	],
+	"healthicon": "glebge",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-100,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

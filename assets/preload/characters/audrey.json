@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-93,
+				-233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-2,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-140,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				14,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-75
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-110
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/audreyASS_ets",
+	"position": [
+		-30,
+		10
+	],
+	"healthicon": "audrey",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		32,
+		32
+	],
+	"camera_position": [
+		-90,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

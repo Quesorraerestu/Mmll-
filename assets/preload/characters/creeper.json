@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-225,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-26,
+				-201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-265,
+				-218
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				-225,
+				-257
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-217,
+				-199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "danceLeft"
+		},
+		{
+			"offsets": [
+				-238,
+				-199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "danceRight"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/creeper",
+	"position": [
+		-220,
+		110
+	],
+	"healthicon": "creeper",
+	"flip_x": true,
+	"healthbar_colors": [
+		30,
+		204,
+		36
+	],
+	"camera_position": [
+		-290,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

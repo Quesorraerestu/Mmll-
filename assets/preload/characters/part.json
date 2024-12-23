@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "por",
+			"indices": [],
+			"name": "BF Por atacar"
+		},
+		{
+			"offsets": [
+				329,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "atake",
+			"indices": [],
+			"name": "BF Atake"
+		},
+		{
+			"offsets": [
+				329,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey-alt",
+			"indices": [],
+			"name": "BF SUPER HEY!!0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Thepart",
+	"position": [
+		-380,
+		230
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		350,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

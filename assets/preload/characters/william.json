@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance "
+		},
+		{
+			"offsets": [
+				-38,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				-70,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				-76,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				-87,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-91,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Dodge instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WILLIAM_ASSETS",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "william",
+	"flip_x": true,
+	"healthbar_colors": [
+		62,
+		136,
+		50
+	],
+	"camera_position": [
+		-100,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

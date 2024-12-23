@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "S Idle"
+		},
+		{
+			"offsets": [
+				-28,
+				47
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "S Left"
+		},
+		{
+			"offsets": [
+				-27,
+				43
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "S Right"
+		},
+		{
+			"offsets": [
+				-26,
+				44
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "S Down"
+		},
+		{
+			"offsets": [
+				-287,
+				265
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "S Up"
+		},
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "sing",
+			"indices": [],
+			"name": "S Sing"
+		},
+		{
+			"offsets": [
+				-26,
+				47
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "XD",
+			"indices": [],
+			"name": "S XD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dialogue",
+	"position": [
+		-440,
+		100
+	],
+	"healthicon": "Shuaibi",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		106,
+		153
+	],
+	"camera_position": [
+		110,
+		-115
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

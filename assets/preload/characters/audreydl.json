@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-29,
+				-135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-6,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-83,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				85,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-107
+			],
+			"anim": "nword",
+			"fps": 24,
+			"name": "Nword",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AUDREY_ASSETSdl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "audrey",
+	"flip_x": true,
+	"healthbar_colors": [
+		174,
+		32,
+		32
+	],
+	"camera_position": [
+		-100,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

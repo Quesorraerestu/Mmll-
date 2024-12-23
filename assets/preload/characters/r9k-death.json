@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				112,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "r9k_death Se muere"
+		},
+		{
+			"offsets": [
+				-373,
+				-369
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "r9k_death idle"
+		},
+		{
+			"offsets": [
+				-373,
+				-369
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "r9k_death Retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Deahts/r9k_death",
+	"position": [
+		-10,
+		330
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		230,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

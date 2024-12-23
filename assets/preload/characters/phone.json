@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "phone Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-207,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ring",
+			"loop": true,
+			"name": "phone Ring"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/phone",
+	"position": [
+		-360,
+		-10
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-260,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}
