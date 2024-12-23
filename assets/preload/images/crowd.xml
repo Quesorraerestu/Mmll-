@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crowd.png">
+<SubTexture name="idle0000" x="0" y="0" width="1263" height="347" frameX="-14" frameY="-3" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0001" x="0" y="0" width="1263" height="347" frameX="-14" frameY="-3" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0002" x="1263" y="0" width="1268" height="346" frameX="-10" frameY="-3" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0003" x="1263" y="0" width="1268" height="346" frameX="-10" frameY="-3" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0004" x="0" y="347" width="1278" height="344" frameX="-2" frameY="-2" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0005" x="0" y="347" width="1278" height="344" frameX="-2" frameY="-2" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0006" x="0" y="691" width="1280" height="342" frameX="0" frameY="-1" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0007" x="0" y="691" width="1280" height="342" frameX="0" frameY="-1" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0008" x="0" y="1033" width="1279" height="341" frameX="0" frameY="0" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0009" x="0" y="1033" width="1279" height="341" frameX="0" frameY="0" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0010" x="0" y="1374" width="1278" height="340" frameX="0" frameY="0" frameWidth="1280" frameHeight="350" />
+<SubTexture name="idle0011" x="0" y="1374" width="1278" height="340" frameX="0" frameY="0" frameWidth="1280" frameHeight="350" />
+</TextureAtlas>
