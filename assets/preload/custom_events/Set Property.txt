@@ -1,0 +1,5 @@
+Sets Camera Zoom
+
+Value 1: defaultCamZoom
+
+Value 2: Zoom distance

@@ -1,0 +1,7 @@
+value 1: text
+
+value 2: color and size (has to be seperated by a comma mr.malcolm)
+examgple:
+Value 1: malcolm is a stupid nigger
+Value 2: ff0000, 24
+if value 2 is empty it will be white color and size 40
