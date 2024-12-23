@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="roro_arms.png">
+<SubTexture name="Down0000" x="3118" y="0" width="667" height="539" frameX="-10" frameY="-28" frameWidth="693" frameHeight="570" />
+<SubTexture name="Down0001" x="3118" y="0" width="667" height="539" frameX="-10" frameY="-28" frameWidth="693" frameHeight="570" />
+<SubTexture name="Down0002" x="2158" y="2138" width="681" height="556" frameX="-8" frameY="-2" frameWidth="693" frameHeight="570" />
+<SubTexture name="Down0003" x="2158" y="2138" width="681" height="556" frameX="-8" frameY="-2" frameWidth="693" frameHeight="570" />
+<SubTexture name="Down Cut0000" x="1431" y="2138" width="727" height="565" frameX="-6" frameY="-6" frameWidth="750" frameHeight="577" />
+<SubTexture name="Down Cut0001" x="1431" y="2138" width="727" height="565" frameX="-6" frameY="-6" frameWidth="750" frameHeight="577" />
+<SubTexture name="Down Cut0002" x="691" y="2138" width="740" height="567" frameX="-5" frameY="-8" frameWidth="750" frameHeight="577" />
+<SubTexture name="Down Cut0003" x="691" y="2138" width="740" height="567" frameX="-5" frameY="-8" frameWidth="750" frameHeight="577" />
+<SubTexture name="Idle0000" x="0" y="2138" width="691" height="650" frameX="-10" frameY="-6" frameWidth="730" frameHeight="660" />
+<SubTexture name="Left0000" x="1853" y="1445" width="569" height="662" frameX="0" frameY="-3" frameWidth="596" frameHeight="669" />
+<SubTexture name="Left0001" x="1853" y="1445" width="569" height="662" frameX="0" frameY="-3" frameWidth="596" frameHeight="669" />
+<SubTexture name="Left0002" x="721" y="1445" width="564" height="665" frameX="-27" frameY="-1" frameWidth="596" frameHeight="669" />
+<SubTexture name="Left0003" x="721" y="1445" width="564" height="665" frameX="-27" frameY="0" frameWidth="596" frameHeight="669" />
+<SubTexture name="Left0004" x="1285" y="1445" width="568" height="665" frameX="-25" frameY="-1" frameWidth="596" frameHeight="669" />
+<SubTexture name="Left Cut0000" x="2592" y="654" width="445" height="652" frameX="0" frameY="-3" frameWidth="573" frameHeight="663" />
+<SubTexture name="Left Cut0001" x="2592" y="654" width="445" height="652" frameX="0" frameY="-3" frameWidth="573" frameHeight="663" />
+<SubTexture name="Left Cut0002" x="2592" y="0" width="526" height="654" frameX="-19" frameY="-1" frameWidth="573" frameHeight="663" />
+<SubTexture name="Left Cut0003" x="2592" y="0" width="526" height="654" frameX="-19" frameY="0" frameWidth="573" frameHeight="663" />
+<SubTexture name="Right0000" x="0" y="1445" width="721" height="693" frameX="-28" frameY="-15" frameWidth="749" frameHeight="724" />
+<SubTexture name="Right0001" x="0" y="1445" width="721" height="693" frameX="-28" frameY="-15" frameWidth="749" frameHeight="724" />
+<SubTexture name="Right0002" x="616" y="0" width="712" height="723" frameX="-3" frameY="0" frameWidth="749" frameHeight="724" />
+<SubTexture name="Right0003" x="616" y="0" width="712" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="724" />
+<SubTexture name="Right0004" x="577" y="725" width="718" height="715" frameX="-7" frameY="-9" frameWidth="749" frameHeight="724" />
+<SubTexture name="Right Cut0000" x="1957" y="700" width="541" height="670" frameX="-49" frameY="-28" frameWidth="647" frameHeight="709" />
+<SubTexture name="Right Cut0001" x="1957" y="700" width="541" height="670" frameX="-49" frameY="-28" frameWidth="647" frameHeight="709" />
+<SubTexture name="Right Cut0002" x="1957" y="0" width="635" height="700" frameX="-7" frameY="-4" frameWidth="647" frameHeight="709" />
+<SubTexture name="Up0000" x="0" y="0" width="616" height="725" frameX="-20" frameY="0" frameWidth="644" frameHeight="762" />
+<SubTexture name="Up Cut0000" x="1295" y="725" width="497" height="714" frameX="-11" frameY="0" frameWidth="638" frameHeight="736" />
+<SubTexture name="Up Cut0001" x="1295" y="725" width="497" height="714" frameX="-11" frameY="0" frameWidth="638" frameHeight="736" />
+<SubTexture name="Up Cut0002" x="0" y="725" width="577" height="720" frameX="0" frameY="-4" frameWidth="638" frameHeight="736" />
+<SubTexture name="Up Cut0003" x="0" y="725" width="577" height="720" frameX="0" frameY="-4" frameWidth="638" frameHeight="736" />
+<SubTexture name="Up Cut0004" x="1328" y="0" width="629" height="722" frameX="-4" frameY="-9" frameWidth="638" frameHeight="736" />
+<SubTexture name="Up Cut0005" x="1328" y="0" width="629" height="722" frameX="-4" frameY="-9" frameWidth="638" frameHeight="736" />
+</TextureAtlas>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="qonnie.png">
+<SubTexture name="qonnie idle10000" x="895" y="0" width="152" height="290" frameX="-209" frameY="-158" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10001" x="895" y="0" width="152" height="290" frameX="-209" frameY="-158" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10002" x="608" y="360" width="143" height="298" frameX="-214" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10003" x="608" y="360" width="143" height="298" frameX="-214" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10004" x="332" y="360" width="138" height="301" frameX="-216" frameY="-147" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10005" x="332" y="360" width="138" height="301" frameX="-216" frameY="-147" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10006" x="616" y="0" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10007" x="616" y="0" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10008" x="616" y="0" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10009" x="616" y="0" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10010" x="616" y="0" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle10011" x="616" y="0" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20000" x="895" y="290" width="152" height="290" frameX="-209" frameY="-158" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20001" x="895" y="290" width="152" height="290" frameX="-209" frameY="-158" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20002" x="752" y="0" width="143" height="298" frameX="-214" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20003" x="752" y="0" width="143" height="298" frameX="-214" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20004" x="470" y="360" width="138" height="301" frameX="-216" frameY="-147" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20005" x="470" y="360" width="138" height="301" frameX="-216" frameY="-147" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20006" x="0" y="360" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20007" x="0" y="360" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20008" x="0" y="360" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20009" x="0" y="360" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20010" x="0" y="360" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie idle20011" x="0" y="360" width="136" height="303" frameX="-217" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0000" x="197" y="663" width="206" height="285" frameX="-136" frameY="-161" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0001" x="197" y="663" width="206" height="285" frameX="-136" frameY="-161" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0002" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0003" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0004" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0005" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0006" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0007" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0008" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0009" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0010" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left0011" x="0" y="663" width="197" height="286" frameX="-149" frameY="-160" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0000" x="0" y="0" width="200" height="360" frameX="-143" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0001" x="0" y="0" width="200" height="360" frameX="-143" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0002" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0003" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0004" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0005" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0006" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0007" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0008" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0009" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up0010" x="200" y="0" width="215" height="343" frameX="-135" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0000" x="415" y="0" width="201" height="304" frameX="-222" frameY="-144" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0001" x="415" y="0" width="201" height="304" frameX="-222" frameY="-144" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0002" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0003" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0004" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0005" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0006" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0007" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0008" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0009" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right0010" x="136" y="360" width="196" height="303" frameX="-220" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0000" x="1047" y="0" width="228" height="248" frameX="-184" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0001" x="1047" y="0" width="228" height="248" frameX="-184" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0002" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0003" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0004" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0005" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0006" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0007" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0008" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0009" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0010" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0011" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0012" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down0013" x="555" y="663" width="213" height="262" frameX="-192" frameY="-189" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0000" x="0" y="949" width="231" height="240" frameX="-127" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0001" x="0" y="949" width="231" height="240" frameX="-127" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0002" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0003" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0004" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0005" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0006" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0007" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0008" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0009" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Left Miss0010" x="1047" y="248" width="215" height="240" frameX="-143" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0000" x="403" y="663" width="152" height="274" frameX="-197" frameY="-176" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0001" x="403" y="663" width="152" height="274" frameX="-197" frameY="-176" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0002" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0003" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0004" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0005" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0006" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0007" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0008" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0009" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0010" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0011" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Up Miss0012" x="768" y="663" width="163" height="259" frameX="-192" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0000" x="480" y="949" width="264" height="221" frameX="-193" frameY="-232" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0001" x="480" y="949" width="264" height="221" frameX="-193" frameY="-232" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0002" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0003" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0004" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0005" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0006" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0007" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0008" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0009" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Right Miss0010" x="231" y="949" width="249" height="222" frameX="-193" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0000" x="1047" y="686" width="221" height="179" frameX="-183" frameY="-276" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0001" x="1047" y="686" width="221" height="179" frameX="-183" frameY="-276" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0002" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0003" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0004" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0005" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0006" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0007" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0008" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0009" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0010" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0011" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0012" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+<SubTexture name="qonnie Down Miss0013" x="1047" y="488" width="200" height="198" frameX="-192" frameY="-258" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

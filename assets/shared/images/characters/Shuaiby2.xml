@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shuaiby.png">
+<SubTexture name="Shuaiby Idle20000" x="2057" y="535" width="315" height="531" frameX="-429" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Idle20001" x="2699" y="512" width="308" height="511" frameX="-437" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Idle20002" x="2699" y="0" width="321" height="512" frameX="-438" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Idle20003" x="894" y="1669" width="319" height="525" frameX="-440" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Idle20004" x="1213" y="1669" width="314" height="525" frameX="-439" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Idle20005" x="1346" y="546" width="315" height="541" frameX="-434" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Idle20006" x="1017" y="576" width="313" height="528" frameX="-435" frameY="-180" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Up0000" x="341" y="0" width="330" height="575" frameX="-417" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Up0001" x="0" y="0" width="341" height="576" frameX="-424" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Up0002" x="1009" y="0" width="337" height="572" frameX="-429" frameY="-135" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Up0003" x="671" y="0" width="338" height="575" frameX="-428" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Up0004" x="671" y="0" width="338" height="575" frameX="-428" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Right0000" x="1527" y="1669" width="310" height="523" frameX="-481" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Right0001" x="0" y="1669" width="310" height="527" frameX="-482" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Right0002" x="310" y="1669" width="292" height="526" frameX="-482" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Right0003" x="1837" y="1669" width="292" height="523" frameX="-482" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Right0004" x="2407" y="0" width="292" height="523" frameX="-483" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Right0005" x="602" y="1669" width="292" height="526" frameX="-483" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Left0000" x="352" y="1125" width="354" height="539" frameX="-355" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Left0001" x="706" y="1125" width="360" height="538" frameX="-368" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Left0002" x="1697" y="535" width="360" height="534" frameX="-369" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Left0003" x="1697" y="535" width="360" height="534" frameX="-369" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Left0004" x="1697" y="535" width="360" height="534" frameX="-369" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Down0000" x="0" y="2196" width="743" height="474" frameX="-486" frameY="-232" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Down0001" x="2699" y="1023" width="300" height="492" frameX="-479" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Down0002" x="2699" y="1515" width="239" height="492" frameX="-479" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Down0003" x="2699" y="1515" width="239" height="492" frameX="-479" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Down0004" x="2699" y="1515" width="239" height="492" frameX="-479" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0000" x="1697" y="1069" width="564" height="532" frameX="-431" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0001" x="325" y="576" width="692" height="546" frameX="-412" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0002" x="0" y="576" width="325" height="549" frameX="-412" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0003" x="1346" y="0" width="351" height="546" frameX="-400" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0004" x="0" y="1125" width="352" height="544" frameX="-398" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0005" x="1697" y="0" width="710" height="535" frameX="-398" frameY="-171" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Shuaiby Shoot0006" x="1066" y="1125" width="347" height="537" frameX="-398" frameY="-169" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

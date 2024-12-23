@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glebsuicide.png">
+<SubTexture name="glebsuicide idle0000" x="2036" y="1017" width="332" height="327" frameX="0" frameY="0" frameWidth="332" frameHeight="327" />
+<SubTexture name="glebsuicide idle0001" x="2036" y="1017" width="332" height="327" frameX="0" frameY="0" frameWidth="332" frameHeight="327" />
+<SubTexture name="glebsuicide idle0002" x="2036" y="1344" width="332" height="327" frameX="0" frameY="0" frameWidth="332" frameHeight="327" />
+<SubTexture name="glebsuicide idle0003" x="2036" y="1344" width="332" height="327" frameX="0" frameY="0" frameWidth="332" frameHeight="327" />
+<SubTexture name="glebsuicide Suicide 0000" x="0" y="1757" width="452" height="344" frameX="-168" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0001" x="0" y="1757" width="452" height="344" frameX="-168" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0002" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0003" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0004" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0005" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0006" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0007" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0008" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0009" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0010" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0011" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0012" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0013" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0014" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0015" x="1328" y="1308" width="446" height="348" frameX="-172" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0016" x="2036" y="0" width="449" height="348" frameX="-169" frameY="-292" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0017" x="772" y="1308" width="556" height="399" frameX="-133" frameY="-243" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0018" x="0" y="1308" width="772" height="449" frameX="-3" frameY="-193" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0019" x="1394" y="537" width="593" height="484" frameX="-306" frameY="-158" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0020" x="674" y="718" width="640" height="537" frameX="-306" frameY="-105" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0021" x="1394" y="0" width="642" height="537" frameX="-304" frameY="-105" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0022" x="726" y="0" width="668" height="590" frameX="-304" frameY="-52" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0023" x="0" y="718" width="674" height="590" frameX="-298" frameY="-52" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0024" x="0" y="0" width="726" height="718" frameX="-298" frameY="0" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0025" x="2036" y="348" width="333" height="337" frameX="-275" frameY="-305" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0026" x="2036" y="348" width="333" height="337" frameX="-275" frameY="-305" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0027" x="2036" y="685" width="332" height="332" frameX="-277" frameY="-310" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0028" x="452" y="1757" width="332" height="327" frameX="-277" frameY="-315" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0029" x="452" y="1757" width="332" height="327" frameX="-277" frameY="-315" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0030" x="784" y="1757" width="332" height="327" frameX="-277" frameY="-315" frameWidth="1024" frameHeight="718" />
+<SubTexture name="glebsuicide Suicide 0031" x="784" y="1757" width="332" height="327" frameX="-277" frameY="-315" frameWidth="1024" frameHeight="718" />
+</TextureAtlas>
